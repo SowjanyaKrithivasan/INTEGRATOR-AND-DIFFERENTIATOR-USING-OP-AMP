@@ -1,4 +1,4 @@
-# INTEGRATOR-AND-DIFFERENTIATOR-USING-OP-AMP
+# DESIGN OF INTEGRATOR-AND-DIFFERENTIATOR-USING-OP-AMP
 # AIM: 
 To design and test the performance of integrator and differentiator circuits using Op-amp 741.
 

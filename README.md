@@ -15,7 +15,7 @@ Here the negative sign indicates that the output voltage is 180 0 out of phase w
 
 The integrator is most commonly used in analog computers and ADC and signal-wave shaping circuits.
 
-# DESIGN:
+
 
 # INTEGRATOR CIRCUIT DIAGRAM
 <img width="446" height="270" alt="image" src="https://github.com/user-attachments/assets/521ab839-8846-49d0-bc6d-d8b2105934f3" />
@@ -29,6 +29,10 @@ The integrator is most commonly used in analog computers and ADC and signal-wave
 
 # TABULATION:
 
+![WhatsApp Image 2025-11-25 at 19 44 32_0b537df4](https://github.com/user-attachments/assets/47f33310-9618-49a7-8c80-675f9e05c55f)
+
+
+
 # THEORY:
 # DIFFEERENTIATOR:
 The differentiator circuit performs the mathematical operation of differentiation; that is, the output waveform is the derivative of the input waveform. The differentiator may be constructed from a basic inverting amplifier if an input resistor R1 is replaced by a capacitor C1 . The expression for the output voltage is given as,
@@ -39,8 +43,6 @@ Here the negative sign indicates that the output voltage is 180 0 out of phase w
 1. Select fa equal to the highest frequency of the input signal to be differentiated. Then, assuming a value of C1 < 1 μF, calculate the value of Rf.
 2. Choose fb = 20 fa and calculate the values of R1 and Cf so that R1C1 = Rf Cf.
 The differentiator is most commonly used in wave shaping circuits to detect high frequency components in an input signal and also as a rate–of–change detector in FM modulators.
-
-# DESIGN:
 
 # DIFFERENTIATOR CIRCUIT DIAGRAM
 <img width="485" height="264" alt="image" src="https://github.com/user-attachments/assets/f5242bb4-723a-447c-85a9-02798491222b" />
@@ -55,6 +57,9 @@ The differentiator is most commonly used in wave shaping circuits to detect high
 
 # TABULATION:
 
+![WhatsApp Image 2025-11-25 at 19 45 05_3947cfb2](https://github.com/user-attachments/assets/ba7a5d5c-0d0f-4afb-b1e9-a2d5b3ba466a)
+
+
 # PROCEDURE:
 1. Connections are given as per the circuit diagram
 2. + Vcc and - Vcc supply is given to the power supply terminal of the Op-Amp IC.
@@ -63,13 +68,21 @@ The differentiator is most commonly used in wave shaping circuits to detect high
 RESULT:
 Thus an Integrator and Differentiator using op-amp are designed and their performance was successfully tested using op-amp IC 741.
 
-# INTEGRATOR GRAPH
+# INTEGRATOR GRAPH:
 
-# DIFFERENTIATOR GRAPH
+![WhatsApp Image 2025-11-25 at 19 45 34_8dde7cbd](https://github.com/user-attachments/assets/fb17de0f-62c9-40ed-b153-9a56d14e1651)
+
+
+# DIFFERENTIATOR GRAPH:
+
+![WhatsApp Image 2025-11-25 at 19 46 33_3a1961be](https://github.com/user-attachments/assets/12406af4-7e9c-4c5c-9dc4-09aa4e58ef06)
+
 
 
 # RESULT:
 
+Thus an Integrator and Differentiator using op-amp are designed and their 
+performance was successfully tested using op-amp IC 741.
 
 
 
